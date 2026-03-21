@@ -1,0 +1,17 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "this is backend learning with scratch",
+  "license": "ISC",
+  "author": "shubham kumar",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cat": "^0.2.0",
+    "cat-me": "^1.0.3",
+    "express": "^5.2.1"
+  }
+}
