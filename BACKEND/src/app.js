@@ -8,8 +8,11 @@ const app = express()
 const notes = [
 
 ]
+// post mehtod 
 
-app.post('/notes')
+app.post('/notes', (req,res)=>{
+      console.log(req.body)
+})
 
 
 
